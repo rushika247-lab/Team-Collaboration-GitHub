@@ -1,1 +1,1 @@
-print("Team Collaboration GitHub Project")
+print("Dashboard page updated")
