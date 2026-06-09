@@ -1,1 +1,1 @@
-print("Dashboard page updated")
+print("Profile page updated")
