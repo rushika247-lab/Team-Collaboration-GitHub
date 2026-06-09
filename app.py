@@ -1,1 +1,1 @@
-print("Login page updated")
+print("Profile page updated")
